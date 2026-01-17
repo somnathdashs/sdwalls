@@ -1,0 +1,7 @@
+<svg width="180" height="50" viewBox="0 0 180 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="179" height="49" rx="24.5" fill="#FFDD00" stroke="#FFDD00"/>
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="16" fill="#333333" text-anchor="middle" alignment-baseline="middle">
+    Buy Me a Coffee
+  </text>
+  <path d="M30 15H40C41.1046 15 42 15.8954 42 17V25C42 26.1046 41.1046 27 40 27H38V30C38 31.1046 37.1046 32 36 32H26C24.8954 32 24 31.1046 24 30V27H22C20.8954 27 20 26.1046 20 25V17C20 15.8954 20.8954 15 22 15H24V12C24 10.8954 24.8954 10 26 10H36C37.1046 10 38 10.8954 38 12V15H30ZM30 17V25H36V17H30Z" fill="#333333"/>
+</svg>
